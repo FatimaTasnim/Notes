@@ -68,6 +68,15 @@ Very flexible non parametric methon that can be used for both classification and
 
 In AdaBoost over fitting can be reduced.
 
+#### Why should care about features of different types?
+- strong connection between preprocessing at our model
+- common feature generation methods for each feature type.
+
+#### Feature Processing:
+Each type of features has it's own ways to be preprocessed in order to improve quality of the model. And it depends on the model. So, It's another hyparparameter to determine.
+#### Feature Generation:
+A very powerful technique which can aid significantly in competitions and sometimes provide the required edge 
+
 
 
 # Important links for learning: 
