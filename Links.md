@@ -1,0 +1,5 @@
+- [CNN, RNN, Sentiment Analysis](https://github.com/Maluuba/sentiment-analysis-workshop/blob/master/notebook.ipynb)
+- [Magenta](https://github.com/tensorflow/magenta-demos/tree/master/performance_rnn)
+- [Word Embedding](https://hackernoon.com/word-embeddings-in-nlp-and-its-applications-fab15eaf7430)
+- [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
+- [Concatenate Embedding for categorical Data](http://flovv.github.io/Embeddings_with_keras_part2/)
