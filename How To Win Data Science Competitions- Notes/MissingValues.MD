@@ -1,4 +1,4 @@
-# Handeling Missing Values
+# Handling Missing Values
 Missing value can contain:
 - Empty String
 - Not numbers
